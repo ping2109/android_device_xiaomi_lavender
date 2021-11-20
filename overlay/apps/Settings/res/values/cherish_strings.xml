@@ -22,6 +22,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- ROM maintainer name -->
-    <string name="build_maintainer_summary">Hung Phan</string>
+    <string name="build_maintainer_summary">ping2109</string>
 
 </resources>
